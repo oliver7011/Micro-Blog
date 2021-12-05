@@ -1,6 +1,6 @@
 # Micro-Blog University Assignment involving MYSQL(HTML/Javascript/CSS/PHP):
 
-The blog uses CRUD to interface with a mySQL database stored externally. 
+Built using the codeigniter framework, the blog interfaces with a mySQL database stored externally. 
 The databse contains:
 - Login Data
 - Message Data
@@ -10,8 +10,8 @@ Login Screen:
 <p>
   <img src="https://github.com/oliver7011/Micro-Blog/blob/main/login.PNG" width="445" height="365">
 </p>
-Users password is hashed and check against hash in database
-If login is sucessful a session is created storing the users data and they are redirected to the their message feed
+The login data is sent with a POST request to an authentication script. The password is hashed using SHA1 and compared to the database.
+If the login is sucessful a session is created storing the users data and they are redirected to the their message feed.
 
 Message Feed:
 <p>
