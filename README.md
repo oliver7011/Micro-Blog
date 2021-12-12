@@ -13,7 +13,7 @@ Login Screen:
 The login data is sent with a POST request to an authentication script. The password is hashed using SHA1 and compared to the database.
 If the login is sucessful a session is created storing the users data and they are redirected to the their message feed.
 
-Message Feed:
+Message Feed: (Provided by University)
 <p>
   <img src="https://github.com/oliver7011/Micro-Blog/blob/main/feed.PNG" width="796" height="411">
 </p>
