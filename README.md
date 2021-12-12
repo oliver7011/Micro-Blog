@@ -1,4 +1,4 @@
-# Micro-Blog Assignment involving MYSQL(HTML/Javascript/CSS/PHP):
+# Micro-Blog Assignment involving MySQL - (HTML/Javascript/CSS/PHP):
 
 Built using the codeigniter framework, the blog interfaces with a mySQL database stored externally. 
 The database contains:
