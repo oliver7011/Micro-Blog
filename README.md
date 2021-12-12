@@ -1,7 +1,7 @@
-# Micro-Blog University Assignment involving MYSQL(HTML/Javascript/CSS/PHP):
+# Micro-Blog Assignment involving MYSQL(HTML/Javascript/CSS/PHP):
 
 Built using the codeigniter framework, the blog interfaces with a mySQL database stored externally. 
-The databse contains:
+The database contains:
 - Login Data
 - Message Data
 - User Data
